@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /restricted/
+Sitemap: https://pp.debreuck.com/sitemap.xml

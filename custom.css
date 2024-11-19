@@ -1,0 +1,200 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #012a26;
+    color: #fff;
+    font-family: rockwell-nova;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+.container-md {
+    max-width: 800px;
+}
+
+
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+}
+
+.navbar-brand:hover {
+    color: #ae7e2c;
+}
+
+.nav-link {
+    margin-right: 1em !important;
+}
+
+.nav-link:hover {
+    color: #ae7e2c;
+}
+
+a {
+    text-decoration: underline;
+    color: #ffffff;
+}
+
+a:hover {
+    color: #ae7e2c;
+}
+
+
+
+.logos-main .fa:hover {
+    color: #966a1e;
+    font-size: 30px;
+}
+
+.logos-main .fa {
+    color: #ae7e2c;
+    font-size: 30px;
+}
+
+.logos-main {
+    font-size: 12px;
+}
+
+.logos-main a {
+    color: #ae7e2c;
+    text-decoration: none;
+}
+
+.logos-main a:hover {
+    color: #966a1e;
+    text-decoration: none;
+}
+
+footer {
+    padding-top: 50px;
+    padding-bottom: 10px;
+    background: #012a26;
+}
+
+footer .fa {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+
+
+footer a {
+    color: #ffffff;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
+.title {
+    color: #ffffff;
+    font-weight: bold;
+
+}
+
+.talk {
+    font-style: italic;
+}
+
+.button {
+    border-style: solid;
+    border-color: #ae7e2c;
+    border-radius: 12px;
+    border-width: 2px;
+    font-size: 14px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+
+
+@import url("https://p.typekit.net/p.css?s=1&k=rmq4tmo&ht=tk&f=39645.39646.39649.39652.39653.39654.39655.39658&a=99087769&app=typekit&e=css");
+
+@font-face {
+    font-family: "rockwell-nova";
+    src: url("https://use.typekit.net/af/84f65a/00000000000000007735baa4/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"), url("https://use.typekit.net/af/84f65a/00000000000000007735baa4/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"), url("https://use.typekit.net/af/84f65a/00000000000000007735baa4/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+    font-style: normal;
+    font-weight: 700;
+    font-stretch: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "rockwell-nova";
+    src: url("https://use.typekit.net/af/5e47a0/00000000000000007735baa8/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"), url("https://use.typekit.net/af/5e47a0/00000000000000007735baa8/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"), url("https://use.typekit.net/af/5e47a0/00000000000000007735baa8/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+    font-display: swap;
+    font-style: italic;
+    font-weight: 700;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "rockwell-nova";
+    src: url("https://use.typekit.net/af/5eee6d/00000000000000007735bab3/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"), url("https://use.typekit.net/af/5eee6d/00000000000000007735bab3/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"), url("https://use.typekit.net/af/5eee6d/00000000000000007735bab3/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+    font-display: swap;
+    font-style: italic;
+    font-weight: 400;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "rockwell-nova";
+    src: url("https://use.typekit.net/af/fb4d70/00000000000000007735babb/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/fb4d70/00000000000000007735babb/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/fb4d70/00000000000000007735babb/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "rockwell-nova-condensed";
+    src: url("https://use.typekit.net/af/7940bb/00000000000000007735baa0/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"), url("https://use.typekit.net/af/7940bb/00000000000000007735baa0/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"), url("https://use.typekit.net/af/7940bb/00000000000000007735baa0/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 700;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "rockwell-nova-condensed";
+    src: url("https://use.typekit.net/af/85fcec/00000000000000007735baa5/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"), url("https://use.typekit.net/af/85fcec/00000000000000007735baa5/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"), url("https://use.typekit.net/af/85fcec/00000000000000007735baa5/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+    font-display: swap;
+    font-style: italic;
+    font-weight: 700;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "rockwell-nova-condensed";
+    src: url("https://use.typekit.net/af/fbe95b/00000000000000007735baac/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"), url("https://use.typekit.net/af/fbe95b/00000000000000007735baac/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"), url("https://use.typekit.net/af/fbe95b/00000000000000007735baac/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+    font-display: swap;
+    font-style: italic;
+    font-weight: 400;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "rockwell-nova-condensed";
+    src: url("https://use.typekit.net/af/2f7f84/00000000000000007735babf/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/2f7f84/00000000000000007735babf/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/2f7f84/00000000000000007735babf/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: normal;
+}
+
+.tk-rockwell-nova {
+    font-family: "rockwell-nova", sans-serif;
+}
+
+.tk-rockwell-nova-condensed {
+    font-family: "rockwell-nova-condensed", sans-serif;
+}
+
+#content {
+    min-height: calc(100vh - 290px);
+}
