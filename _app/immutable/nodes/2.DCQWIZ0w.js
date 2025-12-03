@@ -1,4 +1,4 @@
-import{f as a,a as e,w as s}from"../chunks/BArjX59G.js";import{e as n,n as l,$ as c}from"../chunks/BPnQREwS.js";import{h as d}from"../chunks/DfFEa8yY.js";import"../chunks/-Rp2d5aj.js";var p=s(a(`<meta name="description" content="Research Intern at Mila, Montreal and Ph.D. Student at UCLouvain, specializing in Machine Learning for materials discovery."/> <script type="application/ld+json">
+import{f as a,a as e,w as s}from"../chunks/BArjX59G.js";import{e as n,n as l,$ as c}from"../chunks/BPnQREwS.js";import{h as d}from"../chunks/DfFEa8yY.js";import"../chunks/C8xNCyfY.js";var p=s(a(`<meta name="description" content="Research Intern at Mila, Montreal and Ph.D. Student at UCLouvain, specializing in Machine Learning for materials discovery."/> <script type="application/ld+json">
         {
             "@context": "http://schema.org",
             "@type": "Person",
@@ -11,5 +11,5 @@ import{f as a,a as e,w as s}from"../chunks/BArjX59G.js";import{e as n,n as l,$ a
                 and more in our effort to combat climate change.</li> <li>Computational materials scientist specialized in AI for
                 materials discovery: high-throughput screening, materials
                 property prediction, AI agents for active learning campaigns and
-                generative models.</li> <li>Please find <a href="/CV-full_publi-AUG25.pdf">my resume</a></li> <li>Explore my latest project on generative models for materials
+                generative models.</li> <li>Please find <a href="/CV-full_publi-DEC25.pdf">my resume</a></li> <li>Explore my latest project on generative models for materials
                 discovery: <a href="https://matra.pierrepauldb.com" style="color: #ae7e2c;">Matra-Genoa</a></li></ul> <div class="row justify-content-center logos-main mt-5"><div class="col-3 text-center"><a href="https://github.com/ppdebreuck"><i class="fa fa-github"></i> <br/>github</a></div> <div class="col-3 text-center"><a href="https://www.linkedin.com/in/ppdebreuck"><i class="fa fa-linkedin"></i> <br/>linkedin</a></div> <div class="col-3 text-center"><a href="https://orcid.org/0000-0002-3173-2058"><i class="fa fa-orcid"></i> <br/>orcid</a></div> <div class="col-3 text-center"><a href="https://scholar.google.com/citations?user=TYAyFXQAAAAJ&amp;hl=en"><i class="fa fa-google"></i> <br/>scholar</a></div></div></div></div>`);function b(i,u){var t=h();d("1uha8ag",r=>{var o=p();l(2),n(()=>{c.title="Pierre-Paul De Breuck | Computational Materials Scientist"}),e(r,o)}),e(i,t)}export{b as component};
