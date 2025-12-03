@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - source  # Build from source branch
 
 jobs:
   build-and-deploy:
@@ -28,9 +28,10 @@ jobs:
       - name: Build SvelteKit site
         run: npm run build
       
-      - name: Deploy to GitHub Pages
+      - name: Deploy to main branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
+          publish_branch: main  # Deploy to main branch
           cname: pierrepauldb.com
