@@ -20,8 +20,6 @@ const config = {
 			base: ''
 		},
 
-		trailingSlash: 'always',
-
 		prerender: {
 			handleHttpError: 'warn'
 		}
