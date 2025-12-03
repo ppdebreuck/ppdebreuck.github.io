@@ -1,0 +1,68 @@
+- title: "A generative material transformer using Wyckoff representation"
+  authors: "P.-P. De Breuck, H.A. Piracha and M.A.L. Marques"
+  journal: "[Submitted for publication]"
+  links:
+    - text: "Preprint"
+      url: "https://arxiv.org/abs/2501.16051"
+
+- title: "Optical materials discovery and design via federated databases and machine learning"
+  authors: "V. Trinquet, M. Evans, C. Hargreaves, P.-P. De Breuck, and G.-M. Rignanese"
+  journal: "Faraday Discuss. (2024)"
+  links:
+    - text: "HTML"
+      url: "https://doi.org/10.1039/D4FD00092G"
+
+- title: "Combination of ab initio descriptors and machine learning approach for the prediction of the plasticity mechanisms in β-metastable Ti alloys"
+  authors: "M. Coffigniez, P.-P. De Breuck, L. Choisez, M. Marteleur, M. J. Van Setten, G. Petretto, G.-M. Rignanese, and P. J. Jacques"
+  journal: "Materials & Design 239, 112801 (2024)"
+  links:
+    - text: "HTML"
+      url: "https://www.sciencedirect.com/science/article/pii/S0264127524001734"
+
+- title: "Influence of roughness and coating on the rebound of droplets on fabrics"
+  authors: "P. J. Cruz, P.-P. De Breuck, G.-M. Rignanese, K. Glinel, A. M. Jonas"
+  journal: "Surfaces and Interfaces 36, 102524 (2023)"
+  links:
+    - text: "HTML"
+      url: "https://www.sciencedirect.com/science/article/pii/S2468023022007830"
+
+- title: "A simple denoising approach to exploit multi-fidelity data for machine learning materials properties"
+  authors: "X. Liu, P.-P. De Breuck, L. Wang, G.-M. Rignanese"
+  journal: "npj Comput. Mater. 8, 233 (2022)"
+  links:
+    - text: "HTML"
+      url: "https://www.nature.com/articles/s41524-022-00925-1"
+    - text: "arXiv"
+      url: "https://arxiv.org/abs/2204.10430"
+
+- title: "Accurate experimental band gap predictions with multifidelity correction learning"
+  authors: "P.-P. De Breuck, G. Heymans, G.-M. Rignanese"
+  journal: "J Mater. Inf. 2, 10 (2022)"
+  links:
+    - text: "HTML"
+      url: "https://jmijournal.com/article/view/5056"
+
+- title: "Robust model benchmarking and bias-imbalance in data-driven materials science: a case study on MODNet"
+  authors: "P.-P. De Breuck, M. L. Evans, G.-M. Rignanese"
+  journal: "J. Phys.: Condens. Matter 33, 404002 (2021)"
+  links:
+    - text: "HTML"
+      url: "https://iopscience.iop.org/article/10.1088/1361-648X/ac1280/meta"
+    - text: "arXiv"
+      url: "https://arxiv.org/abs/2102.02263"
+
+- title: "Materials property prediction for limited datasets enabled by feature selection and joint learning with MODNet"
+  authors: "P.-P. De Breuck, G. Hautier, G.-M. Rignanese"
+  journal: "npj Comput. Mater. 7, 83 (2021)"
+  links:
+    - text: "HTML"
+      url: "https://www.nature.com/articles/s41524-021-00552-2"
+    - text: "arXiv"
+      url: "https://arxiv.org/abs/2004.14766"
+
+- title: "Vibrational properties of solids : a machine learning approach"
+  authors: "P.-P. De Breuck, G.-M. Rignanese"
+  journal: "Master Thesis (2019)"
+  links:
+    - text: "DIAL"
+      url: "https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A19619"

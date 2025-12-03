@@ -1,3 +1,5 @@
+@import url("https://p.typekit.net/p.css?s=1&k=rmq4tmo&ht=tk&f=39645.39646.39649.39652.39653.39654.39655.39658&a=99087769&app=typekit&e=css");
+
 body {
     padding: 0;
     margin: 0;
@@ -13,7 +15,6 @@ h1 {
 .container-md {
     max-width: 1050px;
 }
-
 
 .nav-link,
 .navbar-brand {
@@ -41,8 +42,6 @@ a {
 a:hover {
     color: #ae7e2c;
 }
-
-
 
 .logos-main .fa:hover {
     color: #966a1e;
@@ -79,8 +78,6 @@ footer .fa {
     font-size: 20px;
 }
 
-
-
 footer a {
     color: #ffffff;
     font-size: 12px;
@@ -94,7 +91,6 @@ li {
 .title {
     color: #ffffff;
     font-weight: bold;
-
 }
 
 .talk {
@@ -110,10 +106,6 @@ li {
     padding: 5px;
     margin-right: 10px;
 }
-
-
-
-@import url("https://p.typekit.net/p.css?s=1&k=rmq4tmo&ht=tk&f=39645.39646.39649.39652.39653.39654.39655.39658&a=99087769&app=typekit&e=css");
 
 @font-face {
     font-family: "rockwell-nova";
