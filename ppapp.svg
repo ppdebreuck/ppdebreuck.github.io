@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1181.06 402.37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bf6fac;
+      }
+
+      .cls-2 {
+        fill: #3e847f;
+      }
+
+      .cls-3 {
+        fill: #0d1e49;
+      }
+
+      .cls-4 {
+        font-family: Silom, Silom;
+        font-size: 350px;
+      }
+    </style>
+  </defs>
+  <text class="cls-4" transform="translate(12.07 288.24)"><tspan class="cls-1" x="0" y="0">PP</tspan><tspan x="466.89" y="0">A</tspan><tspan class="cls-2" x="700.34" y="0">pp</tspan></text>
+  <circle class="cls-3" cx="129.01" cy="102.69" r="18.5"/>
+  <circle class="cls-3" cx="361.33" cy="102.69" r="18.5"/>
+  <circle class="cls-3" cx="831.22" cy="185.62" r="18.5"/>
+  <circle class="cls-3" cx="1063.16" cy="185.62" r="18.5"/>
+</svg>
