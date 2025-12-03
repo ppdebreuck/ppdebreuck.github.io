@@ -1,8 +1,27 @@
+- title: "AI-Driven Expansion and Application of the Alexandria Database"
+  authors: "T. Cavignac, J. Schmidt, P.-P. De Breuck, A. Loew, T. F. T. Cerqueira, H.-C. Wang, A. Bochkarev, Y. Lysogorskiy, A. H. Romero, R. Drautz, S. Botti, and M. A. L. Marques."
+  journal: "[Submitted for publication]"
+  links:
+
+- title: "Combining feature-based approaches with graph neural networks and symbolic regression for synergistic performance and interpretability"
+  authors: "R. A. Gouvêa, P.-P. De Breuck, T. Pretto, G.-M. Rignanese, and M. J. L. Santos"
+  journal: "npj. Comput. Mater. [under submission]"
+  links:
+    - text: "arXiv"
+      url: "https://arxiv.org/abs/2509.03547"
+
+- title: "Generative AI for Crystal Structures: A Review"
+  authors: "P.-P. De Breuck, H.-C. Wang, G.-M. Rignanese, S. Botti and M.A.L. Marques"
+  journal: "npj. Comput. Mater."
+  links:
+    - text: "arXiv"
+      url: "https://arxiv.org/abs/2509.02723"
+
 - title: "A generative material transformer using Wyckoff representation"
   authors: "P.-P. De Breuck, H.A. Piracha and M.A.L. Marques"
   journal: "[Submitted for publication]"
   links:
-    - text: "Preprint"
+    - text: "arXiv"
       url: "https://arxiv.org/abs/2501.16051"
 
 - title: "Optical materials discovery and design via federated databases and machine learning"
