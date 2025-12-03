@@ -24,7 +24,7 @@
     <div class="col-md-6 text-center px-5">
         <img
             src="/pp_small.jpg"
-            alt="Pierre-Paul De Breuck - Profile Picture"
+            alt="Pierre-Paul De Breuck"
             class="rounded"
             height="350"
             width="263"
@@ -82,28 +82,19 @@
         </ul>
         <div class="row justify-content-center logos-main mt-5">
             <div class="col-3 text-center">
-                <a
-                    href="https://github.com/ppdebreuck"
-                    alt="Find out more on my GitHub profile"
-                >
+                <a href="https://github.com/ppdebreuck">
                     <i class="fa fa-github"></i>
                     <br />github
                 </a>
             </div>
             <div class="col-3 text-center">
-                <a
-                    href="https://www.linkedin.com/in/ppdebreuck"
-                    alt="Go to my linkedin profile to know more about me"
-                >
+                <a href="https://www.linkedin.com/in/ppdebreuck">
                     <i class="fa fa-linkedin"></i>
                     <br />linkedin
                 </a>
             </div>
             <div class="col-3 text-center">
-                <a
-                    href="https://orcid.org/0000-0002-3173-2058"
-                    alt="View my academic orcid page"
-                >
+                <a href="https://orcid.org/0000-0002-3173-2058">
                     <i class="fa fa-orcid"></i>
                     <br />orcid
                 </a>
@@ -111,7 +102,6 @@
             <div class="col-3 text-center">
                 <a
                     href="https://scholar.google.com/citations?user=TYAyFXQAAAAJ&hl=en"
-                    alt="View my publications on my Google Scholar account"
                 >
                     <i class="fa fa-google"></i>
                     <br />scholar

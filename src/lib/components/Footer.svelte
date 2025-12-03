@@ -3,7 +3,7 @@
         <div class="col-1 text-center">
             <a
                 href="https://github.com/ppdebreuck"
-                alt="GitHub icon"
+                aria-label="GitHub Profile"
                 rel="nofollow"
             >
                 <i class="fa fa-github"></i>
@@ -12,7 +12,7 @@
         <div class="col-1 text-center">
             <a
                 href="https://www.linkedin.com/in/ppdebreuck"
-                alt="Linkedin icon"
+                aria-label="LinkedIn Profile"
                 rel="nofollow"
             >
                 <i class="fa fa-linkedin"></i>
@@ -21,7 +21,7 @@
         <div class="col-1 text-center">
             <a
                 href="https://orcid.org/0000-0002-3173-2058"
-                alt="Orcid icon"
+                aria-label="ORCID Profile"
                 rel="nofollow"
             >
                 <i class="fa fa-orcid"></i>
@@ -30,7 +30,7 @@
         <div class="col-1 text-center">
             <a
                 href="https://scholar.google.com/citations?user=TYAyFXQAAAAJ&hl=en"
-                alt="Google Scholar icon"
+                aria-label="Google Scholar Profile"
                 rel="nofollow"
             >
                 <i class="fa fa-google"></i>
