@@ -17,6 +17,13 @@
     - text: "arXiv"
       url: "https://arxiv.org/abs/2509.02723"
 
+- title: "High-Throughput Search for Cubic Chiral Semiconductors: Structural Insights,Database and Stability Trends"
+  authors: "P.-P. De Breuck, H.-C Wang, A. Tellez-Mora, M.A.L. Marques and A. H. Romero"
+  journal: "[Under preparation]"
+  links:
+    - text: "arXiv"
+      url: "https://arxiv.org/abs/2501.16051"
+
 - title: "A generative material transformer using Wyckoff representation"
   authors: "P.-P. De Breuck, H.A. Piracha and M.A.L. Marques"
   journal: "[Submitted for publication]"
