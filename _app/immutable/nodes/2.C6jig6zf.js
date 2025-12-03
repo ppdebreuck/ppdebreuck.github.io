@@ -1,4 +1,4 @@
-import{f as a,a as e,w as s}from"../chunks/BArjX59G.js";import{e as n,n as l,$ as c}from"../chunks/BPnQREwS.js";import{h as d}from"../chunks/DfFEa8yY.js";import"../chunks/cOs50Zkp.js";var p=s(a(`<meta name="description" content="Research Intern at Mila, Montreal and Ph.D. Student at UCLouvain, specializing in Machine Learning for materials discovery."/> <script type="application/ld+json">
+import{f as a,a as e,w as s}from"../chunks/BArjX59G.js";import{e as n,n as l,$ as c}from"../chunks/BPnQREwS.js";import{h as d}from"../chunks/DfFEa8yY.js";import"../chunks/-Rp2d5aj.js";var p=s(a(`<meta name="description" content="Research Intern at Mila, Montreal and Ph.D. Student at UCLouvain, specializing in Machine Learning for materials discovery."/> <script type="application/ld+json">
         {
             "@context": "http://schema.org",
             "@type": "Person",
