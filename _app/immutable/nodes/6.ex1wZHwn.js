@@ -1,4 +1,4 @@
-import{f as i,a as e}from"../chunks/Cu_wBPSV.js";import"../chunks/kaI7peKL.js";import{e as l,$ as o,n}from"../chunks/JI4dCexz.js";import{h as c}from"../chunks/CShxzdP3.js";var p=i('<meta name="description" content="Pierre-Paul De Breuck. Explore my research interests"/>'),d=i(`<div class="row"><div class="col-1"></div> <div class="col-10"><ul><li>Employing unsupervised learning techniques for the analysis and
+import{f as i,a as e}from"../chunks/BArjX59G.js";import"../chunks/CJbDqAGk.js";import{e as l,$ as o,n}from"../chunks/BPnQREwS.js";import{h as c}from"../chunks/DfFEa8yY.js";var p=i('<meta name="description" content="Pierre-Paul De Breuck. Explore my research interests"/>'),d=i(`<div class="row"><div class="col-1"></div> <div class="col-10"><ul><li>Employing unsupervised learning techniques for the analysis and
                 curation of crystal structure databases, whether obtained
                 experimentally or through ab initio calculations.</li> <li>Developing and benchmarking supervised machine learning models
                 for predicting materials properties. This involves tailoring
