@@ -70,7 +70,7 @@
                 generative models.
             </li>
             <li>
-                Please find <a href="/CV-full_publi-AUG25.pdf">my resume</a>
+                Please find <a href="/CV-full_publi-DEC25.pdf">my resume</a>
             </li>
             <li>
                 Explore my latest project on generative models for materials
